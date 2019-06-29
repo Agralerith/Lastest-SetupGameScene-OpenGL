@@ -1,0 +1,4 @@
+﻿  Application.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  D:\ASUS\Desktop\Blast3D-SetUpGameScene_v1.0\Blast3D-SetUpGameScene_v1.0\Dependencies\GLFW\include\GLFW\glfw3.h(98): note: see previous definition of 'APIENTRY'
+  Blast3D.vcxproj -> D:\ASUS\Desktop\Blast3D-SetUpGameScene_v1.0\Blast3D-SetUpGameScene_v1.0\bin\Debug-x64\Blast3D.exe
